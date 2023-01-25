@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**hasan-kayan/hasan-kayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Golang , Pyhton , C++
+- 📫 How to reach me: 
+  - 📫 hasankayan2000@hotmail.com
+  - hasankayan.formal@gmail.com
+ 
+  
+- 👨‍💻 I am working on:
+  - 📌 Python , Flask , Dijango 
+  - 📌 Golang , Python , C/++ , JavaScript 
+  - 📌 JS , React
+  - 📌 MongoDB , MySQL 
+  - 📌 IoT Technologis , Embedded System , Power Systems 
+  
+- ⚡ Stack Share : https://stackshare.io/hasan-kayan
+- ⚡ Linkedin :  https://www.linkedin.com/in/hasan-kayan-37a59319b/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
+### Github stats
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hasan-kayan&show_icons=true&theme=default&hide_border=false&locale=en)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasan-kayan&theme=github&utcOffset=3)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasan-kayan&theme=github)
+
+
+---
