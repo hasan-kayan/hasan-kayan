@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Golang , Pyhton , C++
 - 📫 How to reach me: 
   - 📫 hasankayan2000@hotmail.com
-  - hasankayan.formal@gmail.com
+  - 📫 hasankayan.formal@gmail.com
  
   
 - 👨‍💻 I am working on:
