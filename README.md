@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-
+![Counter](https://komarev.com/ghpvc/?username=hasan-kayan&style=flat-square&label=Profile%20Views)
 
 - 🔭 I’m currently working on Golang , Pyhton , C++
 - 📫 How to reach me: 
