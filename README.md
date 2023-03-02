@@ -11,9 +11,9 @@
 - 👨‍💻 I am working on:
   - 📌 Python , Flask , Dijango 
   - 📌 Golang , Python , C/++ , JavaScript 
-  - 📌 JS , React
-  - 📌 MongoDB , MySQL 
+  - 📌 MongoDB , PostgreSQL 
   - 📌 IoT Technologis , Embedded System , Power Systems 
+  - 📌 AWS and Web Technologies
   
 - ⚡ Stack Share : https://stackshare.io/hasan-kayan
 - ⚡ Linkedin :  https://www.linkedin.com/in/hasan-kayan-37a59319b/
