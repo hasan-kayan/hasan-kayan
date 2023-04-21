@@ -1,4 +1,4 @@
-### Hi there 👋 
+
 
 ![Counter](https://komarev.com/ghpvc/?username=hasan-kayan&style=flat-square&label=Profile%20Views)
 
@@ -15,8 +15,6 @@
   - 📌 IoT Technologis , Embedded System , Power Systems 
   - 📌 AWS and Web Technologies
   
-- ⚡ Stack Share : https://stackshare.io/hasan-kayan
-- ⚡ Linkedin :  https://www.linkedin.com/in/hasan-kayan-37a59319b/
 
   
 
@@ -29,3 +27,13 @@
 
 
 ---
+
+
+# My Profiles 
+
+⚡ Medium : https://medium.com/@hasankayan
+⚡ Linkedin :  https://www.linkedin.com/in/hasan-kayan-37a59319b/
+⚡ Stack Share : https://stackshare.io/hasan-kayan
+
+
+
