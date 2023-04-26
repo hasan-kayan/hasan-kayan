@@ -32,7 +32,7 @@
 # My Profiles 
 
 ⚡ Medium : https://medium.com/@hasankayan
-⚡ Linkedin :  https://www.linkedin.com/in/hasan-kayan-37a59319b/
+⚡ [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-kayan-37a59319b/)
 ⚡ Stack Share : https://stackshare.io/hasan-kayan
 
 
