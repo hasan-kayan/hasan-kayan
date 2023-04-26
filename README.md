@@ -45,8 +45,7 @@
 <br>
 
 # Contact Me 
-   <img src="https://github.com/hasan-kayan/hasan-kayan/blob/main/Contact-Me.svg" alt="tensorflow" width="40" height="40"/> </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://github.com/hasan-kayan/hasan-kayan/blob/main/Contact-Me.svg)" alt="arduino" width="40" height="40"/>
+  
 
 
 
