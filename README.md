@@ -15,9 +15,7 @@
 
 - 📫 How to reach me **🚀🚀 hasankayan2000@hotmail.com 🚀🚀 hasankayan.formal@gmail.com || Or you can contact me by using my other profiles.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
