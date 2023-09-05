@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@hasankayan](https://medium.com/@hasankayan)
 
-- 💬 Ask me about **Automations and all projects in my profile.**
+- 💬 Ask me about **Automations, Web Development and all projects in my profile.**
 
 - 📫 How to reach me **🚀🚀 hasankayan2000@hotmail.com 🚀🚀 hasankayan.formal@gmail.com || Or you can contact me by using my other profiles.**
 
