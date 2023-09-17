@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **.NET Framework, Golang, Python and RPA**
 
-- 🌱 I’m currently learning **Bottole, Django, Gin, .NET, .NET CORE**
+- 🌱 I’m currently learning **ThreeJS, ReactJS, Django, Gin, .NET, .NET CORE**
 
 - 👯 I’m looking to collaborate on **Web Development, Automations, Data Analysis**
 
