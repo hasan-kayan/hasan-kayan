@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **.NET Framework, Golang, Python and RPA**
+- 🔭 I’m currently working on **JavaScript, Python, ThreeJS, ExpressJS, ReactJS, Golang**
 
 - 🌱 I’m currently learning **ThreeJS, ReactJS, Django, Gin, .NET, .NET CORE**
 
