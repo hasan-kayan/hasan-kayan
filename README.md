@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan !</h1>
 <h3 align="center">Full Stack Software Developer</h3>
 
+![Hasan Kayan](assets/hasan-kayan.jpg)
 
 
 - 🔭 I’m currently working on **JavaScript, Python, ThreeJS, ExpressJS, ReactJS, Golang**
@@ -38,4 +39,3 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-kayan&layout=compact)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hasan-kayan)
