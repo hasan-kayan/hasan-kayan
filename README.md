@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hasan !</h1>
 <h3 align="center">Full Stack Software Developer</h3>
 
-![Hasan Kayan](assets/hasan-kayan.jpg)
+<p align="center">
+  <img src="assets/hasan-kayan.jpg" alt="Hasan Kayan"/>
+</p>
+
 
 
 - 🔭 I’m currently working on **JavaScript, Python, ThreeJS, ExpressJS, ReactJS, Golang**
