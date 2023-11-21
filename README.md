@@ -37,7 +37,4 @@
 
 
 
-![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasan-kayan&show_icons=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-kayan&layout=compact)
 
