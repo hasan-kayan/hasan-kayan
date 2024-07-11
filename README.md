@@ -3,8 +3,9 @@
 <h3 align="center">Wisit my website:  https://www.hasankayan.com/</h3>
 
 <p align="center">
-  <img src="assets/hasan-kayan.jpg" alt="Hasan Kayan"/>
+  <img src="assets/hasan-kayan.jpg" alt="Hasan Kayan" style="border-radius: 50%;"/>
 </p>
+
 
 
 
