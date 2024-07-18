@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasan !</h1>
 <h3 align="center">Full Stack Software Developer</h3>
-<h3 align="center">Wisit my website: https://myportfolio-429012.firebaseapp.com/project</h3>
+<h3 align="center">Wisit my website: https://myportfolio-429012.firebaseapp.com</h3>
 
 <p align="center">
   <img src="assets/hasan-kayan.jpg" alt="Hasan Kayan" style="border-radius: 50%;"/>
