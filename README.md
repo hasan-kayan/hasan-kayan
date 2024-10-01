@@ -1,16 +1,25 @@
-<h1 align="center">Hi 👋, I'm Hasan !</h1>
+<h1 align="center">Hi 👋, I'm Hasan!</h1>
 <h3 align="center">Full Stack Software Developer</h3>
-<h3 align="center">
-  <button>
-    href: `https://www.hasankayan.com/`
-  </button>
-</h3>
+
+<p align="center">
+  <a href="https://www.hasankayan.com/" style="text-decoration: none;">
+    <button style="padding: 10px 20px; font-size: 16px; cursor: pointer; border: none; border-radius: 5px; background-color: #4CAF50; color: white;">
+      Visit My Website
+    </button>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yourusername" style="text-decoration: none;">
+    <button style="padding: 10px 20px; font-size: 16px; cursor: pointer; border: none; border-radius: 5px; background-color: #333; color: white;">
+      My GitHub Profile
+    </button>
+  </a>
+</p>
 
 <p align="center">
   <img src="assets/hasan-kayan.jpg" alt="Hasan Kayan" style="border-radius: 50%;"/>
 </p>
-
-
 
 
 - 🔭 I’m currently working on **JavaScript, Python, ThreeJS, ExpressJS, ReactJS, Golang**
