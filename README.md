@@ -9,13 +9,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/yourusername" style="text-decoration: none;">
-    <button style="padding: 10px 20px; font-size: 16px; cursor: pointer; border: none; border-radius: 5px; background-color: #333; color: white;">
-      My GitHub Profile
-    </button>
-  </a>
-</p>
+
 
 <p align="center">
   <img src="assets/hasan-kayan.jpg" alt="Hasan Kayan" style="border-radius: 50%;"/>
